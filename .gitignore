@@ -1,4 +1,4 @@
-﻿# Flutter / Dart
+# Flutter / Dart
 **/build/
 **/.dart_tool/
 **/.flutter-plugins
@@ -23,3 +23,9 @@
 *.log
 .agents/
 *.tmp
+
+# Release Binaries
+*.apk
+*.zip
+releases/
+
