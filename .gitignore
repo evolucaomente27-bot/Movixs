@@ -1,0 +1,25 @@
+﻿# Flutter / Dart
+**/build/
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.pub/
+**/.pub-cache/
+
+# Platform ephemeral
+**/windows/flutter/ephemeral/
+**/android/app/debug/
+**/android/app/release/
+**/android/app/profile/
+**/android/.gradle/
+**/android/captures/
+**/ios/Pods/
+**/ios/.symlinks/
+
+# IDE / OS
+.DS_Store
+.idea/
+*.iml
+*.log
+.agents/
+*.tmp
